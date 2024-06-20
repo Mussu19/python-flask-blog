@@ -1,0 +1,10 @@
+{
+    "param":{
+        "fb_url" : "https://www.facebook.com/",
+        "git_url" : "https://github.com/",
+        "twit_url" : "https://x.com/i/flow/login",
+        "about_text" : "aboutfdggggghdrtttttttttthhhhhhhhhhhhhhhhhhhhsssssssssssssss",
+        "no_of_posts" : 2,
+        "upload_file" : "static/assets/img/"
+    }
+}
